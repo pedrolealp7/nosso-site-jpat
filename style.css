@@ -1,0 +1,46 @@
+:root{
+    --laranja: #FFA300;
+    --verde: #7EE600;
+    --azul: #08FCEB;
+    --azul2: #3605E6;
+    --vermelho: #FF0000;
+
+
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 100%;
+    height: 300px;
+    display: block;
+    background-color: #FFA300;
+
+}
+article{
+    width: 70%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: #7EE600;
+
+}
+
+aside{
+    width: 30%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: #FF0000;
+
+}
+footer{
+    width: 100%;
+    height: 150px;
+    display: block;
+    float: left;
+    background-color: #3605E6;
+}
