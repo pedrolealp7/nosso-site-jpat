@@ -8,6 +8,16 @@
 
     
 }
+@font-face{
+font-family: "roboto";src: url(font/Roboto/Roboto-Regular.ttf);
+
+
+}
+@font-face{
+font-family: "varsity"; src: url(font/varsity_2/varsity_regular.ttf);
+
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -26,8 +36,16 @@ article{
     display: block;
     float: left;
     background-color: #7EE600;
+    
 
+}div{
+    border: red 1px solid;
+    
+    
 }
+
+
+ 
 
 aside{
     width: 30%;
