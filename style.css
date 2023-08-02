@@ -103,6 +103,7 @@ nav li a:hover{
     background-color: #4e4e4e;
     color: white;
 }
-.back{
-    background-image: url("img/festajunina.png");
+#fundo{
+    width: 1270px;
+    height: 220px;
 }
