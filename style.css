@@ -26,6 +26,7 @@ article{
     display: block;
     float: left;
     background-color: #7EE600;
+    display: flex;
 
 }
 
@@ -43,4 +44,40 @@ footer{
     display: block;
     float: left;
     background-color: #3605E6;
+}
+main{
+    
+
+
+}
+
+.Festas{
+    width: 300px;
+    height: 116px;
+    display: block;
+    align-items: center;
+    border: 1px solid black ;
+    background-color: seagreen;
+}
+
+.Porto{
+    width: 300px;
+    height: 370px;
+    background-color: coral;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 5%;
+    
+
+
+}
+#foto2{
+    width: 300px;
+    height: 290px;
+}
+
+#foto3{
+    width: 300px;
+    height: 200px;
 }
