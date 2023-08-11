@@ -57,6 +57,7 @@ nav li a:hover{
     color: white;
     background-color: #E50914;
     cursor: pointer;
+    transition: 0.5s;
 }
 .btn button:hover{
     background-color: #fff;
