@@ -41,18 +41,72 @@ aside #busca{
     height: 20px;
     display: block;
     clear: both;
-    background-color: black;
+    background-color: darkred;
+    text-align: center;
+    
 }
-aside #curiosidades{
+aside section input{
+    width: 80%;
+    height: 30px;
+    display: block;
+    padding-left: 3px;
+    margin-left: 7%;
+    border-radius: 10px;
+    border: 1.4px solid black;
+    
+
+}
+.curiosidades{
+    width: 100%;
+    height: 300px;
+    display: block;
+    clear: both;
+    background-color: darkred;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.curiosidades ul li{
+    background-color: #fff;
+    width: 50%;
+}
+#div1{
+    display: block;
+    width: 230x;
+    height: 30px;
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    font-size: 15px;
+    padding-top: 13px;
+    padding-left: 10px;
+}
+ul{
+    display: block;
+    width: 240px;
+    height: 210px;
+    background-color: white;
+    padding-left: 35px;
+    padding-top: 2px;
+    line-height: 25px;
+}
+aside #imagens{
     width: 100%;
     height: 150px;
     display: block;
     clear: both;
-    background-color: darkred;
+    background-color:  darkred;
+    text-align: center;
+}    
+aside #imagens img{
+    width: 47%;
+    height: 70px;
+    margin-bottom: 5%;
+    border: 2px solid black;
 }
-aside #imagens{
-    
-}
+aside 
+
 footer{
     width: 100%;
     height: 150px;
