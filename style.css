@@ -35,6 +35,7 @@ aside{
     height: 800px;
     display: block;
     float: left;
+    background-color: darkred;
 }
 aside #busca{
     width: 100%;
@@ -43,6 +44,7 @@ aside #busca{
     clear: both;
     background-color: darkred;
     text-align: center;
+    padding-top: 10PX;
     
 }
 aside section input{
@@ -68,8 +70,9 @@ aside section input{
     text-decoration: none;
 }
 .curiosidades ul li{
-    background-color: #fff;
+    background-color: darkred;
     width: 50%;
+
 }
 #div1{
     display: block;
@@ -81,13 +84,14 @@ aside section input{
     font-size: 15px;
     padding-top: 13px;
     padding-left: 10px;
+    
 }
 ul{
     display: block;
-    width: 240px;
+    width: 235px;
     height: 210px;
-    background-color: white;
-    padding-left: 35px;
+    background-color: darkred;
+    padding-left: 30px;
     padding-top: 2px;
     line-height: 25px;
 }
